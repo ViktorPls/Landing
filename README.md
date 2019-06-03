@@ -1,2 +1,5 @@
-![Preview de la web]
-(https://raw.githubusercontent.com/ViktorPls/Landing/master/FireShot%20Capture%20001%20-%20LandingPage%20con%20Boootsrap%20-%20127.0.0.1.png)
+## Pagina echa con Bootstrap 4
+
+##Preview de la WEB
+
+![Preview](https://user-images.githubusercontent.com/48414299/58797839-64f8ca80-85d7-11e9-878d-e8c2c21dd5a3.png)
